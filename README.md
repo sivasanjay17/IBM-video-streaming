@@ -5,18 +5,18 @@
 Welcome to the Cloud Application Development project! This README provides comprehensive guidance for developers and contributors involved in the development, deployment, and maintenance of cloud-based applications.
 
 ## Table of Contents
-1. [Project Overview]
-2. [Prerequisites]
-3. [Getting Started]
+1. Project Overview
+2. Prerequisites
+3. Getting Started
 4. [Development
-5. [Testing]
-6. [Deployment]
-7. [Scaling]
-8. [Monitoring and Maintenance]
-9. [Dependencies]
+5. Testing
+6. Deployment
+7. Scaling
+8. Monitoring and Maintenance
+9. Dependencies
 
 
- 1. Project Overview
+# 1. Project Overview
 
 Provide a detailed overview of the Cloud Application Development project, including:
 
