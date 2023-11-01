@@ -101,16 +101,3 @@ Explain how to monitor and maintain the cloud application after deployment. This
 
 - *Regular Maintenance*: Document regular tasks such as updating dependencies, libraries, and addressing security concerns.
 
- 9. Dependencies
-
-List and describe any external dependencies or services that the cloud application relies on, such as:
-
-- *Third-Party APIs*: Document any external APIs used in the application and how to integrate them.
-
-- *Databases and Storage*: Specify databases, data storage solutions, and how data is managed.
-
-- *External Libraries or Frameworks*: Describe external libraries or frameworks used in the project and how they are integrated.
-
-Make sure to provide information on how these dependencies are managed, maintained, and integrated into the project.
-
-This detailed README documentation serves as a comprehensive guide for developers, administrators, and contributors involved in the Cloud Application Development project. Customize and expand upon it to match the specific requirements and characteristics of your project.
