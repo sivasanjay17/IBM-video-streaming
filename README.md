@@ -1,13 +1,10 @@
 # IBM-video-streaming
 
-Cloud Application Development README
-
  Cloud Application Development README
 
 Welcome to the Cloud Application Development project! This README provides comprehensive guidance for developers and contributors involved in the development, deployment, and maintenance of cloud-based applications.
 
 ## Table of Contents
-
 1. [Project Overview](#project-overview)
 2. [Prerequisites](#prerequisites)
 3. [Getting Started](#getting-started)
