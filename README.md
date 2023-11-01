@@ -1,14 +1,89 @@
 # IBM-video-streaming
 
-Steps :
-1).Click on the 'SIGN UP' button in the upper right corner.
-2).This will take you to our pricing page. To sign up for one of our video streaming plans, scroll down and click "Purchase now".  If you are interested in a Free trial please reach out here. The free trial lasts for 30 days. After 30 days you will need to subscribe to a paid plan in order keep using your account.
-3).After selecting your plan type, you will be directed to the signup page where you will need to login using an IBM ID. If you don't already have an IBM ID, click on the link to create one.Please note that by signing up for IBM Video Streaming, you are agreeing to our terms of service and our privacy policy.
-4).After logging in with your IBM ID, you will be directed to the signup page where you will complete your account details. You will want to check the email you used in creating the account for a verification link. This is to make sure that your email is really being used by you.
-5).Open the email, get your verification code,  add it to the verification token field and finish the subscription process. 
-6).Once you submit the verification code you will receive another email stating your registration has been completed and your IBM ID has been activated. 
-7).Now click on "MY IBM" and sign in with your registered IBM ID (your email).
-8).After you log in you will see your MYIBM dashboard with your subscription info listed under Products.
-9).Now you will be able to click Launch to launch your product or Manage to manage billing and account information.
-10).Clicking launch will take you to your subscriptions Dashboard Overview where you will be able to create a channel, broadcast and manage your recorded videos. 
-11).Clicking Manage will take you to your MYIBM dashboard where you can manage billing and other account information.
+Cloud Application Development README
+
+Welcome to the Cloud Application Development project! This README provides comprehensive guidance for developers and contributors involved in the development, deployment, and maintenance of cloud-based applications.
+
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Prerequisites](#prerequisites)
+3. [Getting Started](#getting-started)
+4. [Development](#development)
+5. [Testing](#testing)
+6. [Deployment](#deployment)
+7. [Scaling](#scaling)
+8. [Monitoring and Maintenance](#monitoring-and-maintenance)
+9. [Dependencies](#dependencies)
+
+ 1. Project Overview
+
+Provide a detailed overview of the Cloud Application Development project, including:
+
+- *Project Purpose*: Explain the purpose and goals of the application, as well as the specific problems it aims to address.
+
+- *Target Audience*: Describe the intended users and stakeholders of the application.
+
+- *Key Features*: List the core features and functionalities of the application.
+
+- *Unique Aspects*: Highlight any unique or innovative aspects of the project.
+
+ 2. Prerequisites
+
+List the prerequisites and dependencies necessary to work on the development of the cloud application. This section should include:
+
+- *Development Tools*: Specify the necessary software, development environments, and version control systems.
+
+- *Cloud Service Providers*: Mention the cloud platforms being used (e.g., AWS, Azure, Google Cloud) and provide guidance on setting up accounts and access.
+
+- *Programming Languages and Frameworks*: List the programming languages, frameworks, and libraries used in the project.
+
+ 3. Getting Started
+
+Provide step-by-step instructions on setting up the development environment for the cloud application. This section should cover:
+
+- *Installation*: Guidance on installing and configuring development tools, including IDEs, code editors, and version control.
+
+- *Cloud Setup*: Instructions for setting up access to cloud services, including cloud storage and databases.
+
+- *Local Development*: Steps to set up a local development environment if applicable, including necessary software and configurations.
+
+ 4. Development
+
+Detail the development process for the cloud application. Include guidelines and best practices for:
+
+- *Code Organization*: Describe the structure and organization of the code within the project.
+
+- *Feature Development*: Explain how to create and test new features or enhancements.
+
+- *Collaboration*: Provide guidance on collaboration, version control, and integration within a development team.
+
+ 5. Testing
+
+Explain the testing procedures and strategies for the cloud application. This section should include:
+
+- *Local Testing*: How to test features locally before deployment.
+
+- *Unit Testing*: Guidelines for writing and running unit tests.
+
+- *Integration Testing*: Strategies for testing how different components interact with each other.
+
+ 6. Deployment
+
+Provide comprehensive guidance on deploying the cloud application. This section should include:
+
+- *Deployment Process*: Detail the process of packaging and deploying the application to the chosen cloud platform.
+
+- *Configuration Management*: How to manage application configurations for different environments (e.g., development, staging, production).
+
+- *Rollback Procedures*: Describe the process for rolling back deployments in case of issues.
+
+ 7. Scaling
+
+Discuss options for scaling the cloud application as it grows. This should cover aspects like:
+
+- *Horizontal Scaling*: How to add more instances to handle increased traffic.
+
+- *Vertical Scaling*: Increasing the capacity of individual instances (e.g., increasing CPU or memory).
+
+- *Load Balancing*: Implementing load balancing to distr…
